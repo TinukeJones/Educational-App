@@ -5,6 +5,7 @@ The questions come randomly and can be repeated
 the user really has to focus when giving an answer and try to memorize the correct answers and as you click the correct answers it displays your score above the quiz App
 If the wrong answer is given,the app tells you either to exit the quiz or start a new quiz
 so the user have the possibility to answer correctly the next time (and learn!)
+Link to my apk on google drive https://drive.google.com/open?id=1AKG53pMMRLvo0LBe_1-1Q4DlPiFaRYVA
 i Created my own Questions.The most important thing in a quiz is a question, which is made of a question text, a list of answers (at least one shoul be correct) and a list of options to choose from.here is an example:
 public class Questions {
     public String mQuestions[] ={
